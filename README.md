@@ -52,7 +52,7 @@ A secure, offline-first personal finance tracker built as a Progressive Web App.
 - 🤝 **Loan Management** - Track money lent and borrowed
 - 🎯 **Budget Planning** - Set monthly budgets with visual progress
 - 🌓 **Dark/Light Mode** - Toggle between themes
-- 💱 **Multi-Currency** - USD, EUR, GBP, JPY, INR support
+- 💱 **Multi-Currency** - USD, EUR, GBP, JPY, INR , BDT support
 
 **🛠️ Tech:** HTML5, CSS3, JavaScript, IndexedDB, Chart.js, Service Workers
 
