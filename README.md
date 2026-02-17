@@ -66,9 +66,10 @@ A secure, offline-first personal finance tracker built as a Progressive Web App.
 
 ## 📊 GitHub Stats
 
-![Twilight091's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twilight091&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Twilight091&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Twilight091&show_icons=true&theme=tokyonight&hide_border=true" alt="Twilight091's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Twilight091&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</p>
 
 ---
 
