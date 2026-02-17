@@ -80,7 +80,10 @@ A secure, offline-first personal finance tracker built as a Progressive Web App.
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Twilight091-181717?style=for-the-badge&logo=github)](https://github.com/Twilight091)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uncagedraptor80@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-raptor2686-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/raptor2686)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+💬 **Discord:** `raptor2686`
 
 ---
 
