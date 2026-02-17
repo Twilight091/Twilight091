@@ -84,6 +84,7 @@ A secure, offline-first personal finance tracker built as a Progressive Web App.
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 💬 **Discord:** `raptor2686`
+💌**mail:** uncagedraptor80@gmail.com
 
 ---
 
