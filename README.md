@@ -43,9 +43,9 @@
 ## 📱 Featured Project
 
 ### 💰 [MyMoney Pro](https://github.com/Twilight091/MyMoney)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PWA](https://img.shields.io/badge/PWA-Ready-blue)](https://web.dev/progressive-web-apps/)
-[![Offline](https://img.shields.io/badge/Offline-First-green)](https://web.dev/offline-first/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![PWA](https://img.shields.io/badge/PWA-Ready-green)](https://web.dev/progressive-web-apps/)
+[![Offline](https://img.shields.io/badge/Offline-First-red)](https://web.dev/offline-first/)
 
 A secure, offline-first personal finance tracker built as a Progressive Web App.
 
